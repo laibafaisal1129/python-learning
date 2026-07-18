@@ -1,11 +1,9 @@
 # python-learning
 
+ module-01/
+report_card_printer.py
 
-python-learning/
-│
-├── module-01/
-│   ├── report_card_printer.py
-│   └── ...
+ ...
 
 name = 'Alice'
 print(name, type(name))
